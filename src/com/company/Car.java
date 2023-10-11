@@ -16,6 +16,11 @@ public class Car {
         this.Price = price;
         this.SerialNumber = serialNumber;
     }
+
+
+    public Brand GetBrand(){
+        return BrandName;
+    }
     @Override
     public String toString() {
         return "\nid: " + id +

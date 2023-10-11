@@ -35,8 +35,9 @@ public class Main {
 
     public static void main(String[] args) {
 	CarStore store = new CarStore();
-        store.GenerateCarList(7);
+        store.GenerateCarList(20);
         store.printAllCars();
+        store.printCarByBrand(Brand.LUAZ);
     }
 }
 

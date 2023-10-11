@@ -21,10 +21,22 @@ public class CarStore {
         }
     }
 
+
+
+
     public void printAllCars() {
 
         System.out.println(Arrays.toString(Cars.toArray()));
     }
 
+    public void printCarByBrand(Brand brand){
+        System.out.println("\n\n print car of Brand: "+ brand.toString());
+        for(Car car : Cars){
+            if(car.GetBrand() == brand){
+                System.out.println(car.toString());
+            }
+        }
+
+    }
 
 }
