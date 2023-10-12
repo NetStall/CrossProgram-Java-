@@ -24,6 +24,20 @@ enum Color{
 
 }
 
+enum Model{
+    Tavria,
+    Lanos,
+    Luaz,
+    Carola,
+    S210,
+    W221,
+    Slavuta,
+    Zaporozec,
+    Camry,
+    Matis
+
+}
+
 
 
 public class Main {
@@ -35,9 +49,12 @@ public class Main {
 
     public static void main(String[] args) {
 	CarStore store = new CarStore();
-        store.GenerateCarList(20);
+        store.GenerateCarList(200);
         store.printAllCars();
         store.printCarByBrand(Brand.LUAZ);
+        store.printCarByBrandAndYearExplotation(Model.Tavria, 10);
+        store.printCarOfPriceAndHighPrice(1000, 2003);
+        store.printCarByModelAndBrandBesidesColor(Brand.Toyota, Model.Carola, Color.Red);
     }
 }
 
