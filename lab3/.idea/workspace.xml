@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e3d9903-3e7c-4c94-b01c-182d54d229d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BlackCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BlackFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BlackTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WhiteCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WhiteFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WhiteTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab3/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BlackCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BlackCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BlackTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BlackTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WhiteCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WhiteCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WhiteTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WhiteTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698161107787</updated>
-      <workItem from="1698161109936" duration="1558000" />
+      <workItem from="1698161109936" duration="2041000" />
     </task>
     <servers />
   </component>
