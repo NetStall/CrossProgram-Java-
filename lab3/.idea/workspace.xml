@@ -6,12 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4e3d9903-3e7c-4c94-b01c-182d54d229d0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BlackTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BlackTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/WhiteTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WhiteTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/BlackCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/BlackCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/WhiteCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/WhiteCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BlackCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BlackCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WhiteCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WhiteCircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698161107787</updated>
       <workItem from="1698161109936" duration="2409000" />
-      <workItem from="1698253072776" duration="3076000" />
+      <workItem from="1698253072776" duration="4030000" />
     </task>
     <servers />
   </component>
