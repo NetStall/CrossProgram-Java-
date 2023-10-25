@@ -8,8 +8,6 @@ public class Client {
 
     }
 
-
-
     public static void main(String[] args) {
         createFactory( new BlackFactory());
         createFactory(new WhiteFactory());
