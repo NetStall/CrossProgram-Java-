@@ -14,6 +14,17 @@ public class BlackTriangle implements Triangle{
             Point tempPoint = new Point(rand.nextDouble(9 + i), rand.nextDouble(16 - i));
             triangleVerticles.add(tempPoint);
         }
+        printTriangle();
+    }
+    public void printTriangle(){
+        System.out.println(color + " triangle is created" + " with verticles: ");
+        printPoints();
+        System.out.println("\n");
+    }
+    public void printPoints(){
+        for(Point tempPoint: triangleVerticles){
+            System.out.println(tempPoint);
+        }
     }
     public Color getColor(){
         return color;
