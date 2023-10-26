@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e3d9903-3e7c-4c94-b01c-182d54d229d0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/BlackCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/BlackCircle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/WhiteCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/WhiteCircle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BlackCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BlackCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/WhiteCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WhiteCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,18 +89,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="V:\game dev\topDown\CrossProgram-Java-\lab3" />
@@ -138,6 +124,7 @@
       <updated>1698161107787</updated>
       <workItem from="1698161109936" duration="2409000" />
       <workItem from="1698253072776" duration="4030000" />
+      <workItem from="1698297273880" duration="71000" />
     </task>
     <servers />
   </component>

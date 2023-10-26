@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Client {
 
     private static void createFactory(AbstractFactory factory){
-        System.out.print("Creating circle: ");
+        System.out.print("Creating circle: \n");
         factory.createCircle();
-        System.out.print("Creating triangle: ");
+        System.out.print("Creating triangle: \n");
         factory.createTriangle();
     }
 
